@@ -7,7 +7,9 @@ you can check out our channel for more updates and don't forget to support :)
 
 ## How To Run
 go on terminal and type
+
 laravel: php artisan serve
+
 vite: npm run dev
 
 Report any bug if you got problem
